@@ -39,7 +39,7 @@ To get started with the Pomodoro Productivity Suite, follow these steps:
 3. Start a local server using Python's built-in HTTP server:
 
    ```
-   python3 -m http.server 8000
+   python3 -m http.server 8001
    ```
 
 4. Open your web browser and visit [http://localhost:8000](http://localhost:8000) to view the application.
@@ -59,6 +59,10 @@ To get started with the Pomodoro Productivity Suite, follow these steps:
 - After completing a set number of work cycles, consider taking a longer break.
 - Click the "Reset" button to reset the timer and work cycle count.
 
+### Screenshots
+
+![Screenshot](screenshots/screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
@@ -73,3 +77,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+Copyright © 2024 [Shantanu Meshram]
